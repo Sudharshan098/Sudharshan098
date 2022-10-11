@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudharshan098
+- 👋 Hi, I’m Sudarshan CR
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack developement
 - 📫 Get connected me on linkedin https://www.linkedin.com/in/sudarshan-c-r-356a08193/
