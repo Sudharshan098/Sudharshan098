@@ -14,7 +14,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
    
 - 👩‍💻 I'm currently working on improving my skills.
 
-- 🧠 I'm currently learning Java.
+- 🧠 I'm currently learning Full-Stack Web Development.
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot.
 
