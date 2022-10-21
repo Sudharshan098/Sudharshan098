@@ -39,9 +39,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 </div>
- 
-<h2 align="center">📊<i> My Static :</i></h2>
- <img src="https://github.com/Sudharshan098/Sudharshan098/blob/main/back.png"/>
+
 
 <br>
 
