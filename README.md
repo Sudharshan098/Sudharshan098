@@ -19,7 +19,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 
 - Checkout my [Portfolio](https://Sudharshan098.github.io/)
 
-<h2 align="center"><i>Tech Stack :</i></h2>
+<h2 align="left"><i>Tech Stack :</i></h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -41,12 +41,12 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 
 </div>
  
-<h2 align="center">📊<i> My Static :</i></h2>
+<h2 align="left">📊<i> My Static :</i></h2>
  <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/>
 
 <br>
 
-<h2 align="center">📊<i> My Github Stats :</i></h2>
+<h2 align="left">📊<i> My Github Stats :</i></h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharshan098&theme=highcontrast" alt="Sudharshan098" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sudharshan098&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
