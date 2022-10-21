@@ -37,10 +37,9 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
    <a href="https://twitter.com/sudarshanCR13"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://www.instagram.com/shan_______13/"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-
-
 </div>
- 
+<br>
+   
 <h2 align="left">📊<i> My Static :</i></h2>
  <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/>
 
