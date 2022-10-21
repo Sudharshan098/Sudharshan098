@@ -33,8 +33,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySql-%2300C4CC.svg?&style=for-the-badge&logo=MySql&logoColor=white" alt="canva" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=Hibernate&logoColor=white" alt="notion" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySql-%2300C4CC.svg?&style=for-the-badge&logo=MySql&logoColor=white" alt="MySql" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring%20-%23F7DF1.svg?&style=for-the-badge&logo=Spring&logoColor=white" />&nbsp;&nbsp;
 
 
