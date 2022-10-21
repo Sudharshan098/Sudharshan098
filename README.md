@@ -43,7 +43,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 <br>
    
 <h2 align="left">📊<i> My Static :</i></h2>
- <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/>
+ <img src="IMG/stat.png"/>
 
 
 <h2 align="left">📊<i> My Github Stats :</i></h2>
