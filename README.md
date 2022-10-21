@@ -3,7 +3,7 @@
     height="45"
     width="45" /> I'm Sudarshan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshna098&label=Profile%20views&color=0e75b6&style=flat"
     alt="Sudharshan098" /> </p>
-    <h3 align="center" margin-left=100px> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+    <h3 align="center" margin-left=200px> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 <h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
 <br>
