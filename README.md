@@ -1,6 +1,8 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/sudarshancr098/"target="_blank"> Sudarshan </a>  </h1>
 <h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/> <br><img style="margin-left:50px;" src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=________Java+Backend+Developer+%3A)" /></h1>
 
+   <br>
+
 <h2>🚀 About Me</h2>
 
 Highly detail-oriented and organized Java Backend developer with excellent technical and communication skills.Passionate about coding and Self-motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
@@ -18,6 +20,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot.
 
 - Checkout my [Portfolio](https://Sudharshan098.github.io/)
+      <br>
 
 <h2 align="left"><i>Tech Stack :</i></h2>
 <div align="left">
@@ -29,6 +32,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
+      <br>
 
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
