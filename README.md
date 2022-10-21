@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/Sudharshan098/"target="_blank"> Sudarshan </a> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h1>
+<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/Sudharshan098/"target="_blank"> Sudarshan </a> <img margin-top=100px src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h1>
 <h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
 
 
