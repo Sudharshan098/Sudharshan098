@@ -6,6 +6,10 @@
     <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 <h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
+    
+<h2>🚀 About Me</h2>
+
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
 <br>
 
 🌐 Socials
