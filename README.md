@@ -2,7 +2,7 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" /> I'm Sudarshan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshna098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
-<h1 align="center"> <img src="https://p.kindpng.com/picc/s/296-2961034_master-setup-data-center-hd-png-download.png" alt="Sudharshna098" height="250px width="250px"/>
+<h1 align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.transparentpng.com%2Fcats%2Fweb-development-270.html&psig=AOvVaw3F8kmFzqaAUColIQqG9jwn&ust=1666445854397000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKi9udu48foCFQAAAAAdAAAAABAJ" alt="Sudharshna098" height="250px width="250px"/>
 <br>
 
 🌐 Socials
@@ -50,7 +50,6 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudharshan098" alt="Sudharshan098" /></a> </p>
 <br>
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Sudharshan098" /></a> </p>
 
 
 
