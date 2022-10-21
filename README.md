@@ -19,7 +19,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 
 - Checkout my [Portfolio](https://Sudharshan098.github.io/)
 
-<h2 align="left"><i>Tech Stack :</i></h2>
+<h2 align="center"><i>Tech Stack :</i></h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
