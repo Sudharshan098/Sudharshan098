@@ -3,7 +3,7 @@
 
 <h2>🚀 About Me</h2>
 
-Highly detail-oriented and organized Java Backend developer with excellent technical and communication skills.Passionate about coding and Self-motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment.
+Highly detail-oriented and organized Java Backend developer with excellent technical and communication skills.Passionate about coding and Self-motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
 
    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshan098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
