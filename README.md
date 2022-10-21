@@ -1,7 +1,10 @@
 <h1 align="center"> Hii, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
     alt="Waving hand animated gif"
     height="45"
-    width="45" /> I'm Sudarshan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshna098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
+    width="45" /> I'm Sudarshan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshna098&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Sudharshan098" /> </p>
+    <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+
 <h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
 <br>
 
