@@ -19,8 +19,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot.
 
 - Checkout my [Portfolio](https://Sudharshan098.github.io/)
-      <br>
-
+<br>
 <h2 align="left"><i>Tech Stack :</i></h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
