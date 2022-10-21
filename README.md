@@ -2,7 +2,7 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" /> I'm Sudarshan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshna098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
-<h1 align="center"> <img src="/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
+<h1 align="center"> <img src="IMG/bg.gif" alt="Sudharshna098" height="250px width="250px"/>
 <br>
 
 🌐 Socials
