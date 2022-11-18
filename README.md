@@ -9,7 +9,7 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshan098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
 
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sudharshan098&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan098" /> </p>
+   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sudharshan098&theme=onedark" alt="Sudharshan098" /> </p>
    
    
 - 👩‍💻 I'm currently working on improving my skills.
