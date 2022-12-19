@@ -56,5 +56,5 @@ Highly detail-oriented and organized Java Backend developer with excellent techn
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudharshan098&show_icons=true&theme=dark&title_color=fb8d0e&text_color=fcfcfc&locale=en&layout=compact" alt="Sudharshan098" height="275px" width="30%"/>
-  <img align="right" src="https://actiity-graph.herokuapp.com/graph?username=Sudharshan098&theme=xcode"&height="275px" width="65%"/>
+  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sudharshan098&theme=dracula"&height="275px" width="65%"/>
 </div>
